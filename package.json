@@ -1,0 +1,22 @@
+{
+  "name": "@prudent/update-addon",
+  "version": "1.0.0",
+  "description": "Start an update add-on for Prudent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "start",
+    "server",
+    "Prudent",
+    "IPC",
+    "add-on",
+    "update"
+  ],
+  "author": "Running Root Private Limited",
+  "license": "MIT",
+  "dependencies": {
+    "@prudent/encode": "^2.2.0"
+  }
+}
